@@ -1,4 +1,6 @@
 # Detecting and Localizing Tumors in Brain MRI Scans
+![image](https://github.com/KorinneStegall/capstone_project/assets/69525188/c6d83b4c-b9aa-491e-a3cd-a4209a0f2168)
+
 
 ## Research Question:
 Can machine learning algorithms accurately detect and localize brain tumors in MRI scans, leading to early diagnosis and treatment?
